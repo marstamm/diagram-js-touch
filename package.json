@@ -1,0 +1,18 @@
+{
+  "name": "diagram-js-touch",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "diagram-js": "^15.2.4",
+    "min-dash": "^4.2.2",
+    "min-dom": "^5.1.1",
+    "tiny-svg": "^4.1.3"
+  }
+}
