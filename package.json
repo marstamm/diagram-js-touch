@@ -1,13 +1,13 @@
 {
-  "name": "diagram-js-touch",
-  "version": "1.0.0",
+  "name": "@marstamm/diagram-js-touch",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "diagram-js": "^15.2.4",
