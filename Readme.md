@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **This is a hackday project and not intended for production use.**
+
 ## @marstamm/diagram-js-touch
 
 This diagram-js extension aims to provide touch support for [diagram-js](https://github.com/bpmn-io/diagram-js) based applications, such as the widely popular [bpmn-js](https://github.com/bpmn-io/bpmn-js).
